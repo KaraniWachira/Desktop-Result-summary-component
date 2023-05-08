@@ -205,7 +205,7 @@ h3 {
 /* visual-rating end */
 
 .btn {
-    margin-left: 50px;
+    margin-left: 65px;
     margin-top: 5px;
     width: 70%;
     height: 50px;
@@ -218,6 +218,10 @@ h3 {
     border: none;
 }
 
+svg {
+    margin-left: 20px;
+    margin-top: 20px;
+}
 
 
 
